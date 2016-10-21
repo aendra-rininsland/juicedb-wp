@@ -1,14 +1,16 @@
-=== Juicedb ===
-Contributors: (this should be a list of wordpress.org userid's)
+=== JuiceDB ===
+Contributors: aendrew
 Donate link: http://example.com/
-Tags: comments, spam
+Tags: apis, e-cigarette, widget, shortcode
 Requires at least: 3.7
 Tested up to: 4.6.1
-Stable tag: 0.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Unofficial plugin for the [JuiceDB][1] e-cigarette liquid database enabling users to display
+information and links to reviews about specific juice flavors and companies.
+
 
 == Description ==
 
@@ -112,3 +114,5 @@ Markdown uses email style notation for blockquotes and I've been told:
 > Asterisks for *emphasis*. Double it up  for **strong**.
 
 `<?php code(); // goes in backticks ?>`
+
+[1]: https://www.juicedb.org

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="juicedb-wp">
+	<description>A custom set of rules to check for a WPized WordPress project</description>
+	<rule ref="WordPress"></rule>
+</ruleset>
